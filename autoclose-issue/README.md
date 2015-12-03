@@ -14,4 +14,4 @@ If you would like to adjust this script for your own instance use, you can modif
     String previousStatus = "Done"; // status to check before closing
     String username = "admin"; // acting user who has the privilege to transition issues to Closed
     
-For more information on this script, you can refer to my site post: [Automatically Close Issues in Done Status After 5 Days in JIRA](http://justinalex.com/automatically-close-issues-in-done-status-after-5-days/) 
+For more information on this script, you can refer to my site post: [Automatically Close Issues in Done Status After 5 Days in JIRA](http://bit.ly/auto-close-issues) 

@@ -20,7 +20,7 @@ import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 
 log = Logger.getLogger("com.onresolve.jira.groovy.TransitionWorkflow");
-log.setLevel(Level.INFO); //to debug script, update Level to Level.DEBUG
+log.setLevel(Level.INFO); // to debug script, update Level to Level.DEBUG
 log.info("Starting process to close old done issues");
 ComponentManager cm = ComponentManager.getInstance();
 
